@@ -1,4 +1,4 @@
-## Mixed-Precision Embeddings for Large-Scale Recommendation Models
+## MPE
 This repository contains the implementation of VLDB 2025 submission paper:
 Mixed-Precision Embeddings for Large-Scale Recommendation Models. 
 
