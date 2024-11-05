@@ -1,5 +1,5 @@
 ## MPE
-This repository contains the implementation of VLDB 2025 submission paper:
+This repository contains the implementation of submission paper:
 Mixed-Precision Embeddings for Large-Scale Recommendation Models. 
 
 
