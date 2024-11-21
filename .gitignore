@@ -1,0 +1,12 @@
+criteo_new
+avazu_new
+kdd12_new
+
+*.pt
+*.npy
+*.log
+*.pyc
+*.out
+
+*log*
+*windows*
